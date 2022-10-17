@@ -1,4 +1,5 @@
 # Hello, world!
 
 don't worry, be happy
-and what you can
+and what you can do
+
