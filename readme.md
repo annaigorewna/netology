@@ -1,6 +1,1 @@
-# Hello, world!
-
-## don't worry, be happy
-
-### and what you can do
-
+# [github](https://github.com/annaigorewna/NeuroStartUp/tree/new-text) 
